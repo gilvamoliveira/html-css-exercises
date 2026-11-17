@@ -10,7 +10,7 @@ Cada atividade inclui uma barra de navegação com os botões **Anterior**, **Pr
 
 Todos os exercícios podem ser visualizados diretamente no navegador:
 
-- **[Acesse o projeto online](https://gilvamoliveira.github.io/html-css-exercises/)**
+[Acessar a aplicação](https://gilvamoliveira.github.io/html-css-exercises/)
 
 ## Demonstração em vídeo
 
@@ -119,7 +119,7 @@ Não há dependências, instalação ou servidor obrigatório. Há duas formas d
 
 **1. Online (recomendado)**
 
-Acesse a versão publicada no GitHub Pages: [HTML e CSS — exercícios](https://gilvamoliveira.github.io/html-css-exercises/)
+Acesse a versão publicada no GitHub Pages: [Acessar a aplicação](https://gilvamoliveira.github.io/html-css-exercises/)
 
 **2. Localmente**
 
